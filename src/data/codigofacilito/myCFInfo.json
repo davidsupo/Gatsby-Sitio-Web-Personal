@@ -1,0 +1,82 @@
+{
+  "data": {
+  "email": "davidjsupoo@gmail.com",
+  "username": "davidjsupoo",
+  "certificates": [],
+  "articles": [],
+  "courses": [
+  {
+  "title": "Curso de introducción a la programación",
+  "progress": "2.0",
+  "url": "http://codigofacilito.com/courses/introduccion"
+  },
+  {
+  "title": "Curso de Go Gratis",
+  "progress": "15.0",
+  "url": "http://codigofacilito.com/courses/go"
+  },
+  {
+  "title": "Taller de Apps Universales con Nuxt y Vue",
+  "progress": "0.0",
+  "url": "http://codigofacilito.com/courses/taller-nuxt-vue"
+  },
+  {
+  "title": "Fundamentos de escritura para programadores",
+  "progress": "30.0",
+  "url": "http://codigofacilito.com/courses/escritura-programadores"
+  },
+  {
+  "title": "Curso Profesional de Base de Datos",
+  "progress": "2.0",
+  "url": "http://codigofacilito.com/courses/base-datos-profesional"
+  },
+  {
+  "title": "Curso Profesional de Python",
+  "progress": "1.0",
+  "url": "http://codigofacilito.com/courses/python-profesional"
+  },
+  {
+  "title": "Curso de Fundamentos de React",
+  "progress": "100.0",
+  "url": "http://codigofacilito.com/courses/react-intro-gratis"
+  },
+  {
+  "title": "Curso para crear Single Page Apps con Laravel",
+  "progress": "4.0",
+  "url": "http://codigofacilito.com/courses/laravel-spa"
+  },
+  {
+  "title": "Curso de noSQL con MongoDB",
+  "progress": "84.0",
+  "url": "http://codigofacilito.com/courses/nosql-moongodb"
+  },
+  {
+  "title": "Curso de Arduino Premium ",
+  "progress": "26.0",
+  "url": "http://codigofacilito.com/courses/arduino-premium-firebase"
+  },
+  {
+  "title": "Curso de TypeScript",
+  "progress": "2.0",
+  "url": "http://codigofacilito.com/courses/typescript"
+  },
+  {
+  "title": "Curso de MongoDB y Node.js con Mongoose",
+  "progress": "22.0",
+  "url": "http://codigofacilito.com/courses/mongoose"
+  },
+  {
+  "title": "Crea un sitio personal con Gatsby",
+  "progress": "50.0",
+  "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+  }
+  ],
+  "finished_courses": [
+  {
+  "title": "Curso de Fundamentos de React",
+  "url": "http://codigofacilito.com/courses/react-intro-gratis"
+  }
+  ]
+  },
+  "errors": []
+  }
